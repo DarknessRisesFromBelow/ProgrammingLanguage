@@ -1,0 +1,15 @@
+/Users/idansahar/RiderProjects/ProgrammingLanguage/bin/Debug/net6.0/ProgrammingLanguage
+/Users/idansahar/RiderProjects/ProgrammingLanguage/bin/Debug/net6.0/ProgrammingLanguage.deps.json
+/Users/idansahar/RiderProjects/ProgrammingLanguage/bin/Debug/net6.0/ProgrammingLanguage.runtimeconfig.json
+/Users/idansahar/RiderProjects/ProgrammingLanguage/bin/Debug/net6.0/ProgrammingLanguage.dll
+/Users/idansahar/RiderProjects/ProgrammingLanguage/bin/Debug/net6.0/ref/ProgrammingLanguage.dll
+/Users/idansahar/RiderProjects/ProgrammingLanguage/bin/Debug/net6.0/ProgrammingLanguage.pdb
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ProgrammingLanguage.csproj.AssemblyReference.cache
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ProgrammingLanguage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ProgrammingLanguage.AssemblyInfoInputs.cache
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ProgrammingLanguage.AssemblyInfo.cs
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ProgrammingLanguage.csproj.CoreCompileInputs.cache
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ProgrammingLanguage.dll
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ref/ProgrammingLanguage.dll
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ProgrammingLanguage.pdb
+/Users/idansahar/RiderProjects/ProgrammingLanguage/obj/Debug/net6.0/ProgrammingLanguage.genruntimeconfig.cache
