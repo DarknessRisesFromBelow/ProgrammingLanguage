@@ -12,6 +12,8 @@ namespace Lang.Tokens
             Type = type;
             TokenIndexInLine = indexInLine;
         }
+
+        public static implicit operator TokenType(Token t) => t.Type;
     }
 
     public enum TokenType
