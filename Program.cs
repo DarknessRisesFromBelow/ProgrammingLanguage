@@ -6,7 +6,7 @@ namespace Lang
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Main");
+            
         }
     }
 }
